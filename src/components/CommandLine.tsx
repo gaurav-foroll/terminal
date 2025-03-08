@@ -9,7 +9,7 @@ export default function CommandLine({ extras }: { extras?: string[] }) {
                 <FaLinux className="inline" /> GUEST
             </span>
             <span className="secondLine">
-                Localhost:3000
+                gaurav_foroll
             </span>
             <span className="thirdLine">{extras && extras[0]}</span>
             <span className="fourthLine">{extras && extras[1]}</span>
