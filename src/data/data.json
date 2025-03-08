@@ -20,6 +20,10 @@
         {
             "type": "instagram",
             "url": "https://www.instagram.com/g_aura__v/"
+        },
+        {
+            "type": "Github",
+            "url" :"https://github.com/gaurav-foroll"
         }
     ],
     "education": [
@@ -35,7 +39,6 @@
         {
             "name": "Text to Speech AI Bot",
             "description": "A text-to-speech AI bot built using Python and Microsoft Azure Cloud Services for speech recognition, with AI capabilities using Google’s Gemini AI.",
-            "imgUrl": "/images/project.png",
             "duration": "Aug 2024",
             "type": [
                 "All",
@@ -47,13 +50,12 @@
                 "Google Gemini AI",
                 "Text to Speech"
             ],
-            "src": "https://github.com/yourusername/t2s-ai-bot",
-            "url": "https://your-website.com/t2s-ai-bot"
+            "src": "https://github.com/gaurav-foroll/tts_AI"
         },
         {
             "name": "AQI Forecasting Using FB Prophet Model",
             "description": "Developed a forecasting model for Air Quality Index (AQI) using the FB Prophet model, incorporating seasonality and holidays for improved prediction accuracy. Utilized visualization tools like Matplotlib and Plotly.",
-            "imgUrl": "/images/project.png",
+         
             "duration": "Oct 2024",
             "type": [
                 "All",
@@ -66,13 +68,13 @@
                 "Matplotlib",
                 "Plotly"
             ],
-            "src": "https://github.com/yourusername/aqi-forecasting",
-            "url": "https://your-website.com/aqi-forecasting"
+            "src": "https://github.com/gaurav-foroll/aqi_forecasting_fb_prophet"
+
         },
         {
             "name": "Movie Recommendation and Sentiment Analysis System",
             "description": "Developed a Movie Recommendation System using TF-IDF Vectorization and Cosine Similarity, and integrated a Sentiment Analysis System with Logistic Regression to classify movie reviews.",
-            "imgUrl": "/images/project.png",
+      
             "duration": "Sept 2024",
             "type": [
                 "All",
@@ -86,8 +88,7 @@
                 "SpaCy",
                 "Pandas"
             ],
-            "src": "https://github.com/yourusername/movie-recommender",
-            "url": "https://your-website.com/movie-recommender"
+            "src": "https://github.com/yourusername/movie-recommender"
         }
     ],
     "experience": {
