@@ -1,0 +1,120 @@
+{
+    "info": {
+        "name": "Gaurav Mishra",
+        "email": "gaurav.mishra.2077@gmail.com",
+        "phone": "9137862077",
+        "position": "Computer Engineer",
+        "location": "Dombivli, Thane, Maharashtra",
+        "about": "I'm a Computer Engineer and passionate Full Stack Developer with a strong foundation in designing, building, and deploying robust web applications. My expertise lies in creating dynamic and user-centric solutions that bridge the gap between functionality and aesthetics. With a comprehensive understanding of both frontend and backend technologies, I specialize in developing seamless digital experiences. Whether it's crafting intuitive user interfaces or implementing efficient server-side logic, I take pride in delivering high-quality results.",
+        "careerGoals": "To pursue a career in software engineering with a focus on innovation and problem-solving."
+    },
+    "socials": [
+        {
+            "type": "email",
+            "url": "gaurav.mishra.2077@gmail.com"
+        },
+        {
+            "type": "linkedIn",
+            "url": ": https://www.linkedin.com/in/gaurav-m-83a853287?trk=contact-info"
+        },
+        {
+            "type": "instagram",
+            "url": "https://www.instagram.com/g_aura__v/"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Computer Science",
+            "specialization": "Honors in Data Science",
+            "institution": "Don Bosco Institute of Technology",
+            "graduation_date": "May 2025",
+            "cgpa": 9.0
+        }
+    ],
+    "projects": [
+        {
+            "name": "Text to Speech AI Bot",
+            "description": "A text-to-speech AI bot built using Python and Microsoft Azure Cloud Services for speech recognition, with AI capabilities using Google’s Gemini AI.",
+            "imgUrl": "/images/project.png",
+            "duration": "Aug 2024",
+            "type": [
+                "All",
+                "Software Development"
+            ],
+            "keywords": [
+                "Python",
+                "Microsoft Azure",
+                "Google Gemini AI",
+                "Text to Speech"
+            ],
+            "src": "https://github.com/yourusername/t2s-ai-bot",
+            "url": "https://your-website.com/t2s-ai-bot"
+        },
+        {
+            "name": "AQI Forecasting Using FB Prophet Model",
+            "description": "Developed a forecasting model for Air Quality Index (AQI) using the FB Prophet model, incorporating seasonality and holidays for improved prediction accuracy. Utilized visualization tools like Matplotlib and Plotly.",
+            "imgUrl": "/images/project.png",
+            "duration": "Oct 2024",
+            "type": [
+                "All",
+                "Data Science & Machine Learning"
+            ],
+            "keywords": [
+                "FB Prophet",
+                "Time Series Forecasting",
+                "Data Science",
+                "Matplotlib",
+                "Plotly"
+            ],
+            "src": "https://github.com/yourusername/aqi-forecasting",
+            "url": "https://your-website.com/aqi-forecasting"
+        },
+        {
+            "name": "Movie Recommendation and Sentiment Analysis System",
+            "description": "Developed a Movie Recommendation System using TF-IDF Vectorization and Cosine Similarity, and integrated a Sentiment Analysis System with Logistic Regression to classify movie reviews.",
+            "imgUrl": "/images/project.png",
+            "duration": "Sept 2024",
+            "type": [
+                "All",
+                "Software Development"
+            ],
+            "keywords": [
+                "TF-IDF",
+                "Cosine Similarity",
+                "Sentiment Analysis",
+                "Logistic Regression",
+                "SpaCy",
+                "Pandas"
+            ],
+            "src": "https://github.com/yourusername/movie-recommender",
+            "url": "https://your-website.com/movie-recommender"
+        }
+    ],
+    "experience": {
+        "work": [],
+        "internships": [],
+        "other_roles": [
+            
+            {
+                "role": "Honorary Member",
+                "organization": "Domain Club DBIT",
+                "duration": "Mar 2024",
+                "responsibilities": [
+                    "Organized a math quiz competition to promote problem-solving skills."
+                ]
+            }
+        ]
+    },
+    "technicalSkills": [
+        "C++",
+        "C",
+        "Python",
+        "JavaScript",
+        "GDScript",
+        "FB Prophet",
+        "Matplotlib",
+        "Plotly",
+        "SpaCy",
+        "Pandas"
+    ]
+}
